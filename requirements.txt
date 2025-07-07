@@ -2,3 +2,7 @@ langchain
 langchain_community
 ipykernel
 pymupdf
+sentence-transformers
+model2vec
+langchain_huggingface
+chrombd
